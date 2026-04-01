@@ -1,3 +1,10 @@
+# End Of Support Notice
+
+I am ending development of my RE Engine addons. No further updates or support will be provided.
+
+Feel free to fork the project if you want to.
+
+---
 
 ![REChainEditorTitle](https://github.com/NSACloud/RE-Chain-Editor/assets/46909075/e74f6ac0-e7c7-4f26-94af-0cf1ff9e95ee)
 
